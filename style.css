@@ -1,0 +1,757 @@
+/* header_top start */
+
+.header_top{
+    background-color: #3c6501;
+    padding: 12px 0px;
+}
+.inner_header_left{
+    margin-left: -80px;
+}
+.inner_header_left a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.inner_header_left a i{
+    margin-right: 6px;
+}
+.inner_header_left :hover{
+    color: #fff;
+}
+.inner_header_right{
+    text-align: right;
+}
+.inner_header_right a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.inner_header_right a i{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.inner_header_right a i:hover{
+    color: #000;
+}
+/* header_top end */
+
+
+/* nav_area start */
+.nav_area{
+    background-color: #fff;
+    padding: 20px 0px;
+}
+.inner_nav_img{
+    margin-left: -50px;
+}
+.inner_nav_area{
+    
+}
+.inner_nav_area ul{
+    text-align: end;
+}
+.inner_nav_area ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+.inner_nav_area ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.inner_nav_area ul li a:hover{
+    color: #3c6501;
+}
+.inner_nav_btn{
+    margin-left: 100px;
+}
+.inner_nav_btn button{
+    border: none;
+    display: block;
+    font-size: 17px;
+    font-weight: 700;
+    background-color: #3c6501;
+    border-radius: 30px;
+    color: #fff;
+    padding: 7px 30px 10px;
+}
+/* nav_area end */
+
+/* slider_area start */
+
+.slider_area{
+    background-image: url('https://azijulbd.com/themex/garden/wp-content/uploads/2020/09/themex-slider-bg.jpg');
+    background-size: cover;
+    height: 800px;
+}
+.inner_slider_area{
+    margin: 200px 0px 0px 0px;
+}
+.inner_slider_area h3{
+    display: block;
+    font-size: 25px;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+.inner_slider_area h2 {
+    display: inline-block;
+    font-size: 79px;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: #000;
+}
+.inner_slider_area img {
+    display: block;
+    float: right;
+    width: 600px;
+    height: 370px;
+}
+.inner_slider_area button{
+    margin-top: 50px;
+    border: none;
+        background: #3c6501;
+        border-radius: 30px;
+        color: #fff;
+        display: inline-block;
+        font-size: 18px;
+        padding: 12px 40px;
+        z-index: 2;
+        transition: 1s;
+        font-weight: 400;
+}
+.inner_slider_area button:hover{
+    background-color: #1f3303;
+    color: #fff;
+}
+
+/* slider_area end */
+
+
+/* service_area start */
+.service_area{
+    padding: 50px 0px;
+    background-color: #3c6501;
+}
+.inner_service_area{
+    padding: 30px 15px 15px;
+    text-align: center;
+    transition: .6s;
+}
+.inner_service_area:hover{
+    background-color: #ffffff87;
+    color: #000;
+}
+.inner_service_area i{
+    font-size: 50px;
+    color: #fff;
+}
+.inner_service_area h3{
+    margin-top: 15px;
+    color: #fff;
+    font-size: 26px ;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.inner_service_area p{
+    margin-top: 15px;
+    color: #fff;
+    font-weight: 600;
+}
+/* service_area end */
+
+
+/* feature_area start */
+.feature_area{
+    margin-top: 100px;
+}
+.inner_feature_area_img{}
+.inner_feature_area{
+    margin-top: 50px;
+}
+.inner_feature_area h2{
+    font-size: 26px;
+    color: #3c6501;
+    font-weight: 400;
+}
+.inner_feature_area h3{
+    font-size: 45px;
+    font-weight: 700;
+    color: #000;
+}
+.inner_feature_area p{
+    font-size: 18px;
+    color: cadetblue;
+    font-weight: 500px;
+}
+.inner_feature_area button{
+    margin-top: 70px;
+    border: none;
+    background: #1f3303;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 18px;
+    padding: 16px 40px;
+    text-align: center;
+    z-index: 2;
+    transition: 1s;
+    font-weight: 600;
+}
+.inner_feature_area button:hover{
+    background-color: #3c6501;
+    color: #fff;
+}
+/* feature_area end */
+
+
+/* items_area start */
+.items_area{
+    margin-top: 100px;
+}
+.inner_items_area{
+    text-align: center;
+    background-color: #fff;
+    padding: 30px 30px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px 5px rgba(196,206,213,.1);
+}
+.inner_items_area i {
+    color: #110808;
+    float: left;
+    font-size: 50px;
+    margin: 20px 0px 0px 40px;
+    width: 90px;
+    height: 90px;
+    line-height: 70px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 20px #efe4e48c;
+    background-color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    transition: .8s;
+}
+.inner_items_area i:hover{
+    background-color: #3c6501;
+    color: #fff;
+}
+.inner_items_area h3{
+    font-size: 26px;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #000;
+    transition: .5s;
+}
+.inner_items_area h3:hover{
+    color: #3c6501;
+}
+.inner_items_area p{
+    margin-left: 50px;
+    font-size: 18px;
+    color: cadetblue;
+    font-weight: 500px;
+}
+/* items_area end */
+
+
+/* new_product_area start*/
+.new_product_area{
+    margin-top: 100px;
+    background-color: #f8ffed;
+}
+.inner_product_text{
+    margin-top: 50px;
+}
+.inner_product_text h2{
+    font-size: 26px;
+    color: #3c6501;
+    font-weight: 400;
+}
+.inner_product_text h3{
+    font-size: 45px;
+    font-weight: 700;
+    color: #000;
+}
+.inner_product_text button{
+    margin-top: 100px;
+    border: none;
+    background: #1f3303;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 18px;
+    padding: 16px 40px;
+    text-align: center;
+    z-index: 2;
+    transition: 1s;
+    font-weight: 600;
+}
+.inner_product_text button:hover{
+    background-color: #3c6501;
+    color: #fff;
+}
+/* new_product_area end */
+
+
+/* food_area start */
+.food_area{
+    padding: 100px 0px 100px 0px;
+    background-color: #fafafb;
+}
+.inner_food_text{
+    text-align: center;
+}
+.inner_food_text h2{
+    font-size: 26px ;
+    font-weight: 400;
+    color: #48740b;
+}
+.inner_food_text h3{
+    font-size: 45px ;
+    font-weight: 700;
+    color: #000;
+}
+.inner_food_area{
+    margin-top: 50px;
+    padding: 0px 0px 30px 0px;
+    background-color: #fff;
+    box-shadow: 0px 0px 30px 0px rgba(0,0,0,.1);
+    border-radius: 10px;
+}
+.inner_food_area img{
+    margin-left: 2px;
+}
+.inner_food_area h3{
+    display: block;
+    margin: 20px 0px 0px 20px;
+    font-size: 26px;
+    color: #000;
+    font-weight: 700;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.inner_food_area p{
+    margin: 20px 0px 0px 20px;
+    font-weight: 600;
+    color: cadetblue;
+}
+.inner_food_area button{
+    margin: 20px 0px 0px 20px;
+    padding: 12px 25px;
+    background-color: #3c6501;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: .6s;
+}
+.inner_food_area button:hover{
+    background-color: #48740b;
+    color: #fff;
+}
+.inner_food_bottom_btn{
+    text-align: center;
+}
+.inner_food_bottom_btn button{
+    margin-top: 50px;
+    background: #3c6501;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    padding: 12px 40px;
+    text-align: center;
+    z-index: 2;
+    transition: 1s;
+    font-weight: 600;
+}
+.inner_food_bottom_btn button:hover{
+    background-color: #48740b;
+    color: #fff;
+}
+/* food_area end */
+
+
+/*elementor_area start */
+.elementor_area{
+    background-image: url('https://azijulbd.com/themex/garden/wp-content/uploads/2020/09/themex-counter.jpg');
+    background-size: cover;
+    height: 300px;
+}
+.inner_elementor_area{
+    margin-top: 100px;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+    background-color: #48740b;
+}
+.inner_elementor_area h2{
+    font-size: 50px;
+    display: inline-block;
+    color: #fff;
+    font-weight: 700;
+}
+.inner_elementor_area h3{
+    font-size: 26px;
+    font-weight: 700;
+    color: #fff;
+}
+/*elementor_area start  */
+
+
+/* member_area start */
+.member_area{
+    margin-top: 100px;
+}
+.inner_member_text{
+    text-align: center;
+}
+.inner_member_text h3{
+    font-size: 26px;
+    color: #48740b;
+    font-weight: 500;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.inner_member_text h2{
+    font-size: 45px;
+    color: #000;
+    font-weight: 700;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+
+.inner_member_area{
+    margin-top: 50px;
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+    box-shadow: 0px 5px 4px 0px rgba(0,0,0,.05);;
+    background-color: #fff;
+}
+.inner_member_area a{
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 700;
+    color: #000;
+    transition: .1s;
+}
+.inner_member_area a:hover{
+    color: #48740b;
+}
+.inner_member_area p{
+    font-weight: 500;
+    color: cadetblue;
+}
+.inner_member_area i{
+    margin: 30px 10px 0px 0px;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    line-height: 20px;
+    padding: 5px 5px 5px 5px;
+    background-color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    border: 1px solid black;
+    transition: .5s;
+}
+.inner_member_area i:hover{
+    background-color: #3c6501;
+    color: #fff;
+}
+/* member_area end */
+
+/* booking_area start */
+.booking_area{
+    margin-top: 100px;
+    background-image: url('	https://azijulbd.com/themex/garden/wp-content/uploads/2020/09/themex-slider-image.jpg');
+    background-size: cover;
+    height: 400px;
+    
+}
+.inner_booking_area{
+   padding: 0px 100px 0px 100px;
+    height: 400px;
+    text-align: center;
+    background-color: #13201be6;
+}
+.inner_booking_area h5 {
+    padding-top: 100px;
+    color: #fff;
+    font-weight: 700;
+}
+.inner_booking_area h2{
+    margin-top: 20px;
+    font-size: 40px;
+    color: #fff;
+    font-weight: 700;
+}
+.inner_booking_area p{
+    margin-top: 20px;
+    color: #fff;
+    font-weight: 400;
+}
+.inner_booking_area button{
+    margin-top: 30px;
+    padding: 12px 30px;
+    background-color: #3c6501;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    transition: .5s;
+}
+.inner_booking_area button:hover{
+    background: #48740b;
+    color: #fff;
+}
+/* booking_area end */
+
+
+/* Portfolio start */
+.Portfolio {
+    margin: 100px 25px 0px 38px;
+    padding-bottom: 100px;
+}
+.Portfolio_text_area{
+    text-align: center;
+}
+.Portfolio_text_area h2{
+    font-size: 26px;
+    color: #48740b;
+    font-weight: 500;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.Portfolio_text_area h3{
+    font-size: 45px;
+    color: #000;
+    font-weight: 700;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.Portfolio_nav_area{
+    margin-top: 50px;
+    text-align: center
+}
+.Portfolio_nav_area ul{
+
+}
+.Portfolio_nav_area ul li {
+    display: inline-block;
+    border: 1px solid aqua;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 2px 10px 2px 10px;
+    transition: .5s;
+}
+.Portfolio_nav_area ul li:hover{
+    background-color: #3c6501;
+}
+.Portfolio_nav_area ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    transition: .6s;
+}
+.Portfolio_nav_area ul li a:hover{
+    color: #fff;
+}
+.inner_Portfolio_area{
+    margin-top: 50px;
+}
+.inner_Portfolio_area img{
+    width: 300px;
+    height: 260px;
+}
+.inner_Portfolio_area_btn{
+    text-align: center;
+}
+.inner_Portfolio_area_btn button{
+    margin-top: 70px;
+    border: none;
+    background: #1f3303;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 18px;
+    padding: 16px 40px;
+    text-align: center;
+    z-index: 2;
+    transition: 1s;
+    font-weight: 600;
+}
+.inner_Portfolio_area_btn button:hover{
+    background-color: #48740b;
+    color: #fff;
+}
+/* Portfolio end */
+
+
+/* form_area start */
+.form_area{
+    background-color: #3c6501;
+    height: 300px;
+}
+.inner_form_area{
+    margin-top: 100px;
+    display: block;
+}
+.inner_form_area h2{
+    display: inline-block;
+    font-size: 45px;
+    font-weight: 700;
+    color: #fff;
+}
+.inner_form_area p{
+    font-weight: 400;
+    color: #fff;
+}
+.inner_form_area_form{
+    float: right;
+    margin-top: -100px;
+}
+.inner_form_area_form input {
+    padding: 10px 50px 10px 50px;
+    border-radius: 10px;
+}
+.inner_form_area button{
+    display: inline-block;
+    padding: 12px 40px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    transition: .5s;
+}
+.inner_form_area button:hover{
+    background-color: #1f3303;
+    color: #fff;
+}
+/* form_area end */
+
+
+/* brand_area start */
+.brand_area{
+    margin-top: 100px;
+}
+.inner_brand_text{
+    text-align: center;
+}
+.inner_brand_text h2{
+    font-size: 26px;
+    color: #48740b;
+    font-weight: 500;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal;
+}
+.inner_brand_text h3{
+    font-size: 45px;
+    color: #000;
+    font-weight: 700;
+    font-family: 'Signika Negative',sans-serif;
+    font-style: normal
+}
+
+.inner_brand_area{
+    margin-top: 50px;
+    padding: 0px 0px 20px 0px;
+    background-color: #fff;
+    box-shadow: 0px 2px 6px 0px #f5f2f2;
+}
+.inner_brand_area img{
+    width: 355px;
+    height: 320px;
+}
+.inner_brand_area h3{
+    margin: 20px 0px 0px 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    transition: .5s;
+}
+.inner_brand_area h3:hover{
+    color: #48740b;
+}
+.inner_brand_area p{
+    margin: 20px 0px 0px 10px;
+    margin-top: 20px;
+    font-weight: 500;
+    color: cadetblue;
+}
+/* brand_area end */
+
+
+/* footer_area start */
+.footer_area {
+    margin-top: 100px;
+    background-image: url('	https://azijulbd.com/themex/garden/wp-content/uploads/2020/09/themex-footer-image.jpg');
+    background-size: cover;
+    height: 400px;
+}
+.inner_footer_area{
+    margin-top: 50px;
+}
+.inner_footer_area p{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+.inner_footer_area h3{
+    font-size: 26px;
+    font-weight: 700;
+    color: #fff;
+}
+.inner_footer_area i {
+    margin-left: 10px;
+    width: 35px;
+    height: 34px;
+    line-height: 35px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #3c6501;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    transition: .5s;
+}
+.inner_footer_area i:hover{
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+.inner_footer_model{
+    padding: 10px 0px 10px 0px;
+}
+.inner_footer_model a{
+    line-height: 2.4;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .2s;
+}
+.inner_footer_model a:hover{
+    color: #48740b;
+}
+.inner_footer_area a{
+    line-height: 2.4;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .2s;
+}
+.inner_footer_area a:hover{
+    color: #48740b;
+}
+/* footer_area end */
